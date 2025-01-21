@@ -6,7 +6,6 @@ This is a React application that allows users to interact with a table featuring
 
 Before running this project, you need to have the following installed on your machine:
 
-- **Node.js**: You can download and install it from [https://nodejs.org/](https://nodejs.org/).
 - **npm**: The Node package manager comes installed with Node.js.
 
 ## Getting Started
@@ -16,7 +15,7 @@ Before running this project, you need to have the following installed on your ma
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/my-table-app.git
+git clone https://github.com/rameshbellani/table-test-cloudify.git
 
 Install Dependencies
 Navigate to the project folder and install the necessary dependencies using npm:
